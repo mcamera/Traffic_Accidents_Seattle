@@ -10,10 +10,10 @@ This project was developed as an end-of-course project to obtain the IBM Data Sc
 
 ## Files
 
-- Traffic_Accidents_Seattle.ipynb: the project's black box is here for free consult
+- Traffic_Accidents_Seattle.ipynb: the project's black box is here for free consult;
 - presentation_coursera_capstone.pdf: a simple presentation of the project;
 - report_coursera_capstone.pdf: the complete report with readability accessible to all;
-- Github_Repository.ipynb: a simple Hello World for a course assignment.
+- Github_Repository.ipynb: just a "Hello World!" for a course assignment.
 
 ##  Programming Language
  
